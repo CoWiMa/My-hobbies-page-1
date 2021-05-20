@@ -1,0 +1,39 @@
+body{
+  background: linear-gradient(green 0%, red 100%);
+  background-repeat: no-repeat;
+  text-align: center;
+}
+#img_001{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  top: 20px;
+    left: 175px;
+    position: relative;
+
+} #div_001{
+  height: 10px;
+  background-color: black;
+  width: 890px;
+  margin: 100px;
+}
+ul{
+    list-style: none;
+    font-family: fantasy;
+    color: cyan;
+    float: right;
+        top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+li{
+display: inline;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+}
+li:hover{
+    color: white;
+}
+
