@@ -36,4 +36,32 @@ display: inline;
 li:hover{
     color: white;
 }
+#line {
+    width: 70px;
+    height: 6px;
+    background-color: azure;
+    margin: 7px auto;
+    
+    
+}
+.images {
+    height: 200px;
+    width: 200px;
+    border: 10px solid aquamarine;
+    margin: 20px;
+    transition: transform 0.2s;
+    
+    
+}
+img:hover {
+    transform: scale(1.1);
+
+}
+#Inspiration {
+    background: linear-gradient(blue, pink);
+    
+}
+a {
+    text-decoration: none;
+}
 
